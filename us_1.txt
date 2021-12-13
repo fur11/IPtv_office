@@ -1,0 +1,7 @@
+﻿
+
+
+IPTV-Channel-1,https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
+
+IPTV-Channel-2,https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
